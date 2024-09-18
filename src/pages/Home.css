@@ -1,0 +1,36 @@
+.home1{
+    display: flex;
+    flex-wrap: wrap;
+    top: 0;
+    z-index: 1000;
+    background-color: white;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    height: 200px;
+    border-radius: 20px;
+    margin-left: 20px;
+ 
+}
+.home2{
+    color: tomato;
+    font-weight: bold;
+    font-size: 40px;
+    position: relative;
+    left: 5px;
+    padding: 5px;
+}
+.home4{
+    display: flex;
+}
+.home3{
+    color:gray;
+    font-weight: bold;
+    font-size: 20px;
+    position: relative;
+    margin-left: 4px;
+ 
+   
+}
+.homeani{
+    width: 80px;
+}

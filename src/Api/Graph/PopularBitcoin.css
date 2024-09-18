@@ -1,0 +1,28 @@
+.PopularBitcoinbar {
+    background-color: white;
+    width: 370px;
+    height: 350px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 20px;
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    padding: 20px; 
+    align-items: center;
+    justify-content: center;
+}
+.PopularBitcoinbar1{
+     position: relative;
+    
+}
+.PopularBitcoinbar1>h5{
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: underline; 
+    text-align: center;
+    color: #333; 
+    
+}
+.PopularBitcoinbar2{
+    margin-top: -40px;
+}
